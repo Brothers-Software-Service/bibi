@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604024165535",
+    "project_id": "bibi-395ae",
+    "storage_bucket": "bibi-395ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604024165535:android:1098bed9e737b60beafeaa",
+        "android_client_info": {
+          "package_name": "com.bmry.bibi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604024165535-9qdrdltachcjiheng6g14s7fha9t69r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmry.bibi",
+            "certificate_hash": "a68ef1c3aa64eaa3070958d94a16aa7e5de17610"
+          }
+        },
+        {
+          "client_id": "604024165535-16b27fc1uov160bqg0n14rp0mv69uutk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Wwb40PfuAVWLycbnrZJsS6JG7hTh-ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604024165535-16b27fc1uov160bqg0n14rp0mv69uutk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
